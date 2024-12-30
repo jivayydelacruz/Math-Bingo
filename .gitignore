@@ -1,0 +1,21 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Crash reports
+[Cc]rash/
+[Dd]ump/
+
+# Other generated files
+[Aa]ssets/**/*.meta
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+
+# VS Code
+.vscode/
